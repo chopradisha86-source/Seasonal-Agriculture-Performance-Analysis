@@ -1,6 +1,6 @@
 # 🌾 Seasonal Agricultural Data Analysis & Risk Auditing
 
-An advanced exploratory data analysis (EDA), statistical inferencing, and operational risk auditing framework built to analyze seasonal crop performance, environmental impacts, and financial viability across agricultural regions
+An advanced exploratory data analysis (EDA), statistical inferencing, and operational risk auditing framework built to analyze seasonal crop performance, environmental impacts, and financial viability across agricultural regions.
 
 ---
 
