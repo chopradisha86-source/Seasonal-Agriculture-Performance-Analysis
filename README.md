@@ -25,7 +25,7 @@ This project provides a quantitative evaluation of agricultural productivity, re
   - Multivariate feature correlation matrix.
 * Inferential Statistical Testing:
   - One-Way ANOVA & SciPy Tukey HSD Post-Hoc Tests (Yield vs. Season).
-  - Kruskal-Wallis Non-Parametric Variance Analysis.
+  - Kruskal Wallis Non-Parametric Variance Analysis.
   - Chi-Square Test of Independence (Season vs. Profitability Status).
 * Operational Risk Auditing: Outlier and anomaly detection mapping high-expenditure farms operating at net losses.
 
